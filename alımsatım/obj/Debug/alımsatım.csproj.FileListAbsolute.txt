@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\alımsatım\alımsatım\bin\Debug\alımsatım.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10a\alımsatım\alımsatım\bin\Debug\alımsatım.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\alımsatım\alımsatım\bin\Debug\alımsatım.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\alımsatım\alımsatım\obj\Debug\alımsatım.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\alımsatım\alımsatım\obj\Debug\alımsatım.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\alımsatım\alımsatım\obj\Debug\alımsatım.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\alımsatım\alımsatım\obj\Debug\alımsatım.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\alımsatım\alımsatım\obj\Debug\alımsatım.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\alımsatım\alımsatım\obj\Debug\alımsatım.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\alımsatım\alımsatım\obj\Debug\alımsatım.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\alımsatım\alımsatım\obj\Debug\alımsatım.pdb
